@@ -10,7 +10,7 @@ http://projects.fivethirtyeight.com/2016-election-forecast/?ex_cid=rrpromo
 
 (b) What does the map show? Justify your conclusions.
 ## Analysis Solution  
-(a) The final output map is the file - <b>ElectionResult2016.jpg</b> in Output folder.  
+(a) The final output map is the file - <b>Elections2016.jpg</b> in Output folder.  
 <p align="justify">
 (b) The following are the conclusions along with justifications:  
 
