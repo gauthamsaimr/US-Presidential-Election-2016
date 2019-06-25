@@ -1,7 +1,7 @@
 # US-Presidential-Election-2016
-# US-Presidential-Election-Analysis
+
 This repository contains source code in R 
-## Problem Statement
+## Analysis Problem Statement
 <p align="justify">
 (a) Use R to make a map of state-by-state percentage vote share of President Trump in the 2016 US presidential election. The data are stored in a CSV file in Input folder. Be sure to include Alaska and Hawaii in your map. Get the color scheme in your map to look like the one shown at
 http://projects.fivethirtyeight.com/2016-election-forecast/?ex_cid=rrpromo
@@ -9,7 +9,7 @@ http://projects.fivethirtyeight.com/2016-election-forecast/?ex_cid=rrpromo
 </p>
 
 (b) What does the map show? Justify your conclusions.
-## Solution  
+## Analysis Solution  
 (a) The final output map is the file - <b>ElectionResult2016.jpg</b> in Output folder.  
 <p align="justify">
 (b) The following are the conclusions along with justifications:  
