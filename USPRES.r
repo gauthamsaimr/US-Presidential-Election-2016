@@ -56,6 +56,6 @@ the 2016 US presidential election"
 
 #saves the map to a file in jpg format named ElectionResult2016
 ggsave(p1(usa.df, figure.title), height = 4, width = 4*1.9,
-       file = "ElectionResult2016.jpg")
+       file = "Elections2016.jpg")
 
 
